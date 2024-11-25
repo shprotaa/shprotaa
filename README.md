@@ -6,6 +6,13 @@ Welcome to Shprotaa's Node Validator GitHub page! We specialize in supporting an
 
 ## 🏆 Supported Projects
 
+### 🌑 Enso Finance 
+Enso network abstracts all smart contract interactions on rollups, appchains, and blockchains for execution.
+
+<img src="https://github.com/user-attachments/assets/d0ea10e3-eb13-4208-8369-95c68fd0c635" alt="Description" width="200" height="200">
+
+**[Enso Finance Node](https://github.com/shprotaa/ensofinance)**
+
 ### 🌌 Stargaze
 Stargaze is an NFT blockchain built on the Cosmos SDK, offering users the ability to create, trade, and own unique digital assets.
 
